@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faheemullah
+- 👋 Hi, I’m new to computer vision and deep learning.
 - 👀 I’m interested in computer vision and deep learning.
 - 🌱 I’m currently learning computer vision and deep learning.
 - 💞️ I’m looking to collaborate on 6DoF object pose estimation for robot manipulation.
